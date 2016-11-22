@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F51BEA41-C34E-9B2E-76FF-1B15A7AC6DF1}") = "Shinobi Runner", "Assembly-CSharp.csproj", "{8FD5687C-478A-C31A-E70E-6A591F48BBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FD5687C-478A-C31A-E70E-6A591F48BBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD5687C-478A-C31A-E70E-6A591F48BBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD5687C-478A-C31A-E70E-6A591F48BBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD5687C-478A-C31A-E70E-6A591F48BBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
